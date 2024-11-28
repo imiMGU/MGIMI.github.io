@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# ニュース
+# What's New
 
 <dl>
   {% for post in site.posts %}
