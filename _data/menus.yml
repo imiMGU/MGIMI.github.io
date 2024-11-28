@@ -1,1 +1,10 @@
-
+menu_list_title: MG-IMI
+menu:
+- title: Top
+  url: index.html
+- title: About
+  url: about.html
+- title: Members
+  url: members.html
+- title: Research
+  url: research.html
