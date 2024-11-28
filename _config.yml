@@ -1,3 +1,10 @@
-title: Institute for Mathematical Informatics
-description: Meiji Gakuin University
 theme: jekyll-theme-cayman
+lang: ja-JP
+title: 明治学院大学 情報数理科学研究所
+description: 明治学院大学 情報数理科学 附置研究所
+logo: assets/images/MI_logo.png
+collections:
+  faculty_members:
+    output: true
+github:
+  is_project_page: false
