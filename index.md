@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Institute for Mathematical Informatics
-description: Meiji Gakuin University
+description: Attached Research Institute in Faculty of Mathematical Informatics, Meiji Gakuin University
 ---
 
 # What's New
