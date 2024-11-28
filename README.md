@@ -1,7 +1,7 @@
 # 明治学院大学 情報数理科学研究所 ホームページ
 
 ## 内容
-- 活動内容　(TOPページ、What's new)
+- 活動内容 (TOPページ、What's new)
 - 研究所の紹介 (about.md)
 - メンバーの紹介 (members.md)
 - 研究成果の公表 (research.md)
