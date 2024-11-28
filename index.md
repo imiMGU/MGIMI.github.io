@@ -13,9 +13,3 @@ description: Attached Research Institute in Faculty of Mathematical Informatics,
     </dd>
   {% endfor %}
 </dl>
-
-# Members
-
-# Researches
-
-# Annual Reports
