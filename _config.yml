@@ -5,3 +5,4 @@ description: 明治学院大学 情報数理学部 附置研究所
 logo: assets/images/MI_logo.png
 github:
   is_project_page: false
+future: true
