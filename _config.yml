@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 lang: ja-JP
 title: 明治学院大学 情報数理科学研究所
 description: 明治学院大学 情報数理学部 附置研究所
-logo: assets/images/MI_logo.png
+logo: assets/images/MGIMI_logo.png
 github:
   is_project_page: false
 future: true
