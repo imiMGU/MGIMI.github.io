@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# What's New
+# Institute Blog
 
 <dl>
   {% for post in site.posts %}
